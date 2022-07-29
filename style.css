@@ -1,0 +1,47 @@
+* {
+    /* outline: 1px solid red; */
+}
+
+body {
+    background: linear-gradient(to bottom left, orange, white);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.container {
+    background: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid orange;
+}
+
+th, td {
+    border: 2px solid orange;
+}
+
+.btn-container {
+    border: 1px solid black;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.flip-btn {
+    background: linear-gradient(to bottom left, lightblue, white);
+}
+
+.reset-btn {
+    background: linear-gradient(to bottom left, orange, white);
+}
