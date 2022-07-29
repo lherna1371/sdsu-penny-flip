@@ -45,3 +45,13 @@ th, td {
 .reset-btn {
     background: linear-gradient(to bottom left, orange, white);
 }
+
+button {
+    font-size: 1.2em;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: red;
+    color: azure;
+}
